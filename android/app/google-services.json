@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "842917135097",
+    "firebase_url": "https://task-girman-default-rtdb.firebaseio.com",
+    "project_id": "task-girman",
+    "storage_bucket": "task-girman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842917135097:android:f5a86bcc14cbdce8c65828",
+        "android_client_info": {
+          "package_name": "com.girmantech.flt_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFR7kDjCqQoZA7NCU52gANnsdKmONYom8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
